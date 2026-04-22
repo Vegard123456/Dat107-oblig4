@@ -1,0 +1,124 @@
+{
+  "lokallag": {
+    "navn": "Vestland Idrettslag",
+    "stiftelsesår": 1985,
+    "organisasjonsnummer": "987654321",
+    "adresse": {
+      "gateadresse": "Idrettsveien 12",
+      "postnummer": "5003",
+      "poststed": "Bergen"
+    },
+    "leder": {
+      "navn": {
+        "fornavn": "Kari",
+        "etternavn": "Olsen"
+      },
+      "telefon": "99887766",
+      "epost": "kari.olsen@vestlandil.no"
+    },
+    "medlemmer": [
+      {
+        "medlemsnummer": 1001,
+        "navn": {
+          "fornavn": "Ole",
+          "etternavn": "Nordmann"
+        },
+        "kontaktinformasjon": {
+          "telefon": "91234567",
+          "epost": "ole.nordmann@epost.no"
+        },
+        "adresse": {
+          "gateadresse": "Storgata 5",
+          "postnummer": "5005",
+          "poststed": "Bergen"
+        },
+        "status": "aktiv",
+        "medlemsavgift": [
+          {
+            "år": 2023,
+            "betalt": true,
+            "betalingsdato": "2023-02-15"
+          },
+          {
+            "år": 2024,
+            "betalt": true,
+            "betalingsdato": "2024-01-20"
+          },
+          {
+            "år": 2025,
+            "betalt": false,
+            "betalingsdato": null
+          }
+        ]
+      },
+      {
+        "medlemsnummer": 1002,
+        "navn": {
+          "fornavn": "Ingrid",
+          "etternavn": "Hansen"
+        },
+        "kontaktinformasjon": {
+          "telefon": "92345678",
+          "epost": "ingrid.hansen@epost.no"
+        },
+        "adresse": {
+          "gateadresse": "Lillegata 8",
+          "postnummer": "5008",
+          "poststed": "Bergen"
+        },
+        "status": "aktiv",
+        "medlemsavgift": [
+          {
+            "år": 2023,
+            "betalt": true,
+            "betalingsdato": "2023-03-10"
+          },
+          {
+            "år": 2024,
+            "betalt": true,
+            "betalingsdato": "2024-02-05"
+          },
+          {
+            "år": 2025,
+            "betalt": true,
+            "betalingsdato": "2025-01-30"
+          }
+        ]
+      },
+      {
+        "medlemsnummer": 1003,
+        "navn": {
+          "fornavn": "Per",
+          "etternavn": "Johansen"
+        },
+        "kontaktinformasjon": {
+          "telefon": "93456789",
+          "epost": "per.johansen@epost.no"
+        },
+        "adresse": {
+          "gateadresse": "Fjordveien 22",
+          "postnummer": "5010",
+          "poststed": "Bergen"
+        },
+        "status": "inaktiv",
+        "medlemsavgift": [
+          {
+            "år": 2023,
+            "betalt": true,
+            "betalingsdato": "2023-04-01"
+          },
+          {
+            "år": 2024,
+            "betalt": false,
+            "betalingsdato": null
+          },
+          {
+            "år": 2025,
+            "betalt": false,
+            "betalingsdato": null
+          }
+        ]
+      }
+    ]
+  }
+}
